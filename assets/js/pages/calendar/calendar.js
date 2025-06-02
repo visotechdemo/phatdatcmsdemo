@@ -5,7 +5,7 @@
             center: 'title',
             right: 'next'
         },
-        defaultDate: '2018-01-01',
+        defaultDate: '2025-12-11',
         editable: true,
         droppable: true, // this allows things to be dropped onto the calendar
         drop: function() {
